@@ -44,7 +44,7 @@ class Cpu {
     	System.out.println("Name: Denzel Sunny");
 System.out.println("Addmission_no: 22MCA022");
 System.out.println("Course ID & Code : OOP LAB, 20MCA132");
-System.out.println("Date: 24/03/2023");
+System.out.println("Date: 28/03/2023");
 System.out.println("____________________________________\n\n");
 
 
